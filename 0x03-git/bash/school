@@ -1,1 +1,4 @@
-school
+#!/bin/bash 
+echo "school"
+
+School
